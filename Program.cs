@@ -6,7 +6,7 @@ namespace Program
     {
         public static void Main(String[] args) 
         {
-            ToCamelCase.Solve("the-stealth-warrior");
+            ReplaceWithAlphabetPosition.Solve("The sunset sets at twelve o' clock.");
         }
     }
 }
