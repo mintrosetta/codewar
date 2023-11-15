@@ -6,7 +6,7 @@ namespace Program
     {
         public static void Main(String[] args) 
         {
-            Console.WriteLine(PrinterError.Solve("aaaxbbbbyyhwawiwjjjwwm"));
+            Console.WriteLine(Mumbling.Solve("r"));
         }
     }
 }
