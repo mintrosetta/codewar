@@ -6,7 +6,7 @@ namespace codewar
         {
             char[] chars = new char[26];
 
-            for (int character = 'a'; character <= 'z'; character++)
+            for (int character = 'a'; character <= 'm'; character++)
             {
                 Console.WriteLine((char) character);
             }
