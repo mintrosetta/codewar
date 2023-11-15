@@ -6,7 +6,7 @@ namespace Program
     {
         public static void Main(String[] args) 
         {
-            Console.WriteLine(CountingDuplicate.Solve("Indivisibility"));
+            Console.WriteLine(TwoToOne.Solve("xyaabbbccccdefww", "xxxxyyyyabklmopq") == "abcdefklmopqwxy");
         }
     }
 }
