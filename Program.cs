@@ -6,7 +6,7 @@ namespace Program
     {
         public static void Main(String[] args) 
         {
-            Console.WriteLine(TwoToOne.Solve("xyaabbbccccdefww", "xxxxyyyyabklmopq") == "abcdefklmopqwxy");
+            Console.WriteLine(BreakCamelCase.Solve("identifier"));
         }
     }
 }
